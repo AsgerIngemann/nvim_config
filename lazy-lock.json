@@ -1,0 +1,9 @@
+{
+  "R.nvim": { "branch": "main", "commit": "0acf1fc99a504cf45f3b91dd9ec9394ec73f33fe" },
+  "catppuccin": { "branch": "main", "commit": "4fd72a9ab64b393c2c22b168508fd244877fec96" },
+  "cmp-r": { "branch": "main", "commit": "18b88eeb7e47996623b9aa0a763677ac00a16221" },
+  "lazy.nvim": { "branch": "main", "commit": "48b52b5cfcf8f88ed0aff8fde573a5cc20b1306d" },
+  "miasma.nvim": { "branch": "main", "commit": "37818b190e291c75a2d78118dc7dd8d69d311a8c" },
+  "nvim-cmp": { "branch": "main", "commit": "ae644feb7b67bf1ce4260c231d1d4300b19c6f30" },
+  "nvim-treesitter": { "branch": "master", "commit": "4770d9a1a77b0cc2b723c646c3dbe43a9133e5db" }
+}
